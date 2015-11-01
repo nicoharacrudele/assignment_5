@@ -8,7 +8,7 @@
 
 2. [**Clone**](http://gitref.org/creating/#clone) the repository to your computer.
 
-3. Create an iPython notebook called `Analyzing data.ipynb` in which you address the 
+3. Create an iPython notebook called `Analyzing_data.ipynb` in which you address the 
 following:
 	
 	a. Load a dataset related to your proposal topic into an iPython notebook using the 
